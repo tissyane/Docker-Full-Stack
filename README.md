@@ -1,7 +1,7 @@
 # Docker-Full-Stack
 Exercise: From a given source code, upload a full stack application using Docker
 
-```json
+```bash
 1º 
 Dowloaded the given code
 
